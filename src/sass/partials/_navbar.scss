@@ -1,0 +1,33 @@
+.navbar {
+	width: 100% !important;
+	z-index: 100;
+
+	.navbar-toggler {
+		position: absolute !important;
+		right: 15px !important;
+		top: 15px;
+	}
+
+	.btn {
+		font-size: 1rem !important;
+
+		@media (min-width: 992px) {
+			font-size: 1rem !important;
+		}
+	}
+
+	.navbar-nav {
+		right: 0px !important;
+		flex-direction: row;
+	}
+
+	.navbar-brand {
+		font-size: 2rem !important;
+		margin: auto !important;
+		color: #ffc107;
+
+		@media (min-width: 992px) {
+			font-size: 3rem !important;
+		}
+	}
+}

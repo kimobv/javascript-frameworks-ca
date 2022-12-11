@@ -1,0 +1,17 @@
+form {
+	display: flex;
+	flex-direction: column !important;
+	width: 100% !important;
+}
+.btn {
+	align-self: center !important;
+}
+
+.form-floating {
+	margin: 0.5% 15%;
+}
+
+span {
+	color: red !important;
+	font-size: 1rem !important;
+}
