@@ -1,4 +1,4 @@
-# Your project title
+# The Banana Store - A storefront for bananas
 
 ![image](https://drive.google.com/uc?id=18u3j7G1cT1WqvvLAwte0jcPjqdUhkM1T)
 
