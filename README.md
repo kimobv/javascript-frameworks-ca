@@ -18,6 +18,8 @@ This project was an assignment and the task can be read [here](https://github.co
 
 ## Getting Started
 
+You can see the live version of the project [here!](https://rococo-lamington-1180fb.netlify.app)
+
 ### Installing
 
 1. Clone the repo:
