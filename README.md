@@ -4,9 +4,11 @@
 
 ## Description
 
-One of my first project using React.js, login functionallity using [Axios](https://axios-http.com) with Wordpress API.
+One of my first project using React.js, login functionality using [Axios](https://axios-http.com) with Wordpress API.
 No admin functionallity past login. 
 Items in store are from Wordpress.
+
+This project was an assignment and the task can be read [here](https://github.com/kimobv/javascript-frameworks-ca/blob/main/README.old.md)
 
 ## Built With
 
